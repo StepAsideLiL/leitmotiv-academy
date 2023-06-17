@@ -1,0 +1,56 @@
+[
+  {
+    "courseName": "Film Directing Masterclass",
+    "description": "An intensive masterclass on film directing, covering advanced techniques, working with actors, visual storytelling, and creating a distinct directorial style.",
+    "courseImage": "image_url13",
+    "instructorName": "<display name of logged-in instructor>",
+    "instructorEmail": "<email of logged-in instructor>",
+    "availableSeats": 20,
+    "price": 250
+  },
+  {
+    "courseName": "Cinematography Lighting Techniques",
+    "description": "Explore the art and science of cinematography lighting, learning advanced techniques to create mood, atmosphere, and visual impact in your films.",
+    "courseImage": "https://images2.imgbox.com/21/88/ZvINov7R_o.jpg",
+    "instructorName": "<display name of logged-in instructor>",
+    "instructorEmail": "<email of logged-in instructor>",
+    "availableSeats": 15,
+    "price": 180
+  },
+  {
+    "courseName": "Film Acting Workshop",
+    "description": "A hands-on workshop designed to develop acting skills specific to film, covering character analysis, on-camera techniques, and audition preparation.",
+    "courseImage": "image_url15",
+    "instructorName": "<display name of logged-in instructor>",
+    "instructorEmail": "<email of logged-in instructor>",
+    "availableSeats": 18,
+    "price": 150
+  },
+  {
+    "courseName": "Film Production Design",
+    "description": "Learn the art of production design for films, including creating sets, selecting props, and establishing visual aesthetics to enhance storytelling.",
+    "courseImage": "image_url16",
+    "instructorName": "<display name of logged-in instructor>",
+    "instructorEmail": "<email of logged-in instructor>",
+    "availableSeats": 12,
+    "price": 200
+  },
+  {
+    "courseName": "Film Marketing and Promotion",
+    "description": "Explore effective marketing and promotional strategies for films, including audience targeting, social media campaigns, and film publicity.",
+    "courseImage": "image_url17",
+    "instructorName": "<display name of logged-in instructor>",
+    "instructorEmail": "<email of logged-in instructor>",
+    "availableSeats": 25,
+    "price": 120
+  },
+  {
+    "courseName": "Film Distribution and Exhibition",
+    "description": "An in-depth study of film distribution and exhibition, covering distribution strategies, release plans, and the role of theaters and streaming platforms.",
+    "courseImage": "image_url18",
+    "instructorName": "<display name of logged-in instructor>",
+    "instructorEmail": "<email of logged-in instructor>",
+    "availableSeats": 15,
+    "price": 220
+  }
+]

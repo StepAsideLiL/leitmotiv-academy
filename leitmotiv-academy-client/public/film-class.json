@@ -1,0 +1,110 @@
+[
+  {
+    "courseName": "Introduction to Filmmaking",
+    "description": "A comprehensive overview of the filmmaking process, covering scriptwriting, camera techniques, lighting, sound recording, and editing.",
+    "courseImage": "https://images2.imgbox.com/d1/1b/to2QM6Gr_o.jpg",
+    "instructorName": "Aras Baras",
+    "instructorEmail": "aras@basra.com",
+    "availableSeats": 20,
+    "price": 100
+  },
+  {
+    "courseName": "Directing and Cinematography",
+    "description": "Learn the art of directing and cinematography, focusing on shot composition, camera angles, visual storytelling, and working with actors.",
+    "courseImage": "https://images2.imgbox.com/ce/ad/XYrKnV4M_o.jpg",
+    "instructorName": "Birat Mala",
+    "instructorEmail": "birat@mala.com",
+    "availableSeats": 15,
+    "price": 120
+  },
+  {
+    "courseName": "Screenwriting and Story Development",
+    "description": "Master the craft of screenwriting, exploring story structure, character development, and dialogue writing for the screen.",
+    "courseImage": "https://images2.imgbox.com/0a/0b/A0pZC0u4_o.jpg",
+    "instructorName": "Boro Shoro",
+    "instructorEmail": "boro@shoro.com",
+    "availableSeats": 18,
+    "price": 90
+  },
+  {
+    "courseName": "Film Editing and Post-Production",
+    "description": "Delve into the post-production phase of filmmaking, learning editing techniques, sound design, and color grading using industry-standard software.",
+    "courseImage": "https://images2.imgbox.com/36/ad/Q4aGlrzn_o.jpg",
+    "instructorName": "Modhu Kodu",
+    "instructorEmail": "modhu@kodu.com",
+    "availableSeats": 12,
+    "price": 150
+  },
+  {
+    "courseName": "Film History and Appreciation",
+    "description": "Explore the history of cinema, studying influential filmmakers, important movements, and the cultural impact of film as an art form.",
+    "courseImage": "https://images2.imgbox.com/89/16/1Jx9eI12_o.jpg",
+    "instructorName": "Alu Khalu",
+    "instructorEmail": "aku@khalu.com",
+    "availableSeats": 25,
+    "price": 80
+  },
+  {
+    "courseName": "Film Marketing and Distribution",
+    "description": "Learn the business side of the film industry, covering marketing strategies, distribution channels, and the role of producers and distributors.",
+    "courseImage": "https://images2.imgbox.com/dc/4b/sFNNIkAC_o.jpg",
+    "instructorName": "Akash Batash",
+    "instructorEmail": "akash@batash.com",
+    "availableSeats": 10,
+    "price": 200
+  },
+  {
+    "courseName": "Film Production Management",
+    "description": "Learn the principles and techniques of film production management, including budgeting, scheduling, and resource allocation.",
+    "courseImage": "https://images2.imgbox.com/dd/13/QLTzrzDl_o.jpg",
+    "instructorName": "Akash Batash",
+    "instructorEmail": "akash@batash.com",
+    "availableSeats": 15,
+    "price": 180
+  },
+  {
+    "courseName": "Documentary Filmmaking",
+    "description": "Explore the art and techniques of creating compelling documentaries, including research, storytelling, and ethical considerations.",
+    "courseImage": "https://images2.imgbox.com/0e/48/yRtxROtG_o.jpg",
+    "instructorName": "Alu Khalu",
+    "instructorEmail": "aku@khalu.com",
+    "availableSeats": 20,
+    "price": 120
+  },
+  {
+    "courseName": "Film Theory and Criticism",
+    "description": "Dive into film theory and criticism, analyzing cinematic elements, genres, and cultural contexts to develop a deeper understanding of film as an art form.",
+    "courseImage": "https://images2.imgbox.com/42/b1/w3pxe1kv_o.jpg",
+    "instructorName": "Modhu Kodu",
+    "instructorEmail": "modhu@kodu.com",
+    "availableSeats": 18,
+    "price": 90
+  },
+  {
+    "courseName": "Film Sound Design",
+    "description": "Learn the techniques and principles of film sound design, including recording, editing, and mixing sound effects, dialogue, and music.",
+    "courseImage": "https://images2.imgbox.com/f5/97/oqaVedoW_o.jpg",
+    "instructorName": "Boro Shoro",
+    "instructorEmail": "boro@shoro.com",
+    "availableSeats": 12,
+    "price": 150
+  },
+  {
+    "courseName": "Film Festival Strategies",
+    "description": "Explore the world of film festivals, from submission strategies to navigating the festival circuit and maximizing exposure for your films.",
+    "courseImage": "https://images2.imgbox.com/64/5f/0o2xsIDh_o.jpg",
+    "instructorName": "Birat Mala",
+    "instructorEmail": "birat@mala.com",
+    "availableSeats": 25,
+    "price": 100
+  },
+  {
+    "courseName": "Special Effects and Visual Effects",
+    "description": "Discover the magic of special effects and visual effects in filmmaking, including practical effects, CGI, and compositing techniques.",
+    "courseImage": "https://images2.imgbox.com/2c/d6/bZuIVRi3_o.jpg",
+    "instructorName": "Aras Baras",
+    "instructorEmail": "aras@basra.com",
+    "availableSeats": 15,
+    "price": 200
+  }
+]
