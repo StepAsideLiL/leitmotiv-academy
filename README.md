@@ -45,6 +45,6 @@ npm run dev
 
 #### Note:
 
-- Your to add an MongoDB username and password in `.env` file as `DB_USER` and `DB_PASS`.
+- You have to add an MongoDB username and password in `.env` file as `DB_USER` and `DB_PASS`.
 - Add a SECRET_TOKEN for JWT
 - And PAYMENT_SECRET_KEY for stipe for payment.
