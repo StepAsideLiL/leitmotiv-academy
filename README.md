@@ -4,8 +4,6 @@ A summer school for film enthusiast, and learn and become a yound filmmaker.
 
 ### [Live Site Link](https://leitmotiv-academy-client.web.app/)
 
-#### [Client Repo](https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-StepAsideLiL) | [Server Repo](https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-StepAsideLiL)
-
 ### Features of this website
 
 1. User authentication with firebase: Login and Registration page.
